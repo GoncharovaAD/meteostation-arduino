@@ -1,7 +1,7 @@
 # meteostation-arduino
 This is my project with Arduino based on this work https://projecthub.arduino.cc/sgongo/simple-temperature-and-humidity-sensor-dd1b3a
 
-# Arduino Weather Station
+# Arduino Weather Station :sunny:
 
 A compact DIY weather station built with an Arduino, a DHT11 temperature/humidity sensor, and a 4-digit 7-segment display.
 
@@ -147,12 +147,10 @@ Select:
 
 Then upload the code.
 
-![Device Photo](images/device.jpg)
-Wiring
-![Wiring](images/wiring.jpg)
-Circuit Diagram
-![Schematic](images/schematic.png)
-Example Output
+## Images
+<img src="photo_2026-05-21_13-50-52.jpg" width="500" alt="Device">
+<img src="photo_2026-05-21_13-50-55.jpg" width="500" alt="Device">
+<img src="9d20bb48-76ba-4ee4-9f63-8162450f7ad7.png" width="500"  alt="Wiring">
 
 | Mode | Example |
 |---|---|
