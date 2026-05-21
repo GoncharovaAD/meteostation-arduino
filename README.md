@@ -8,6 +8,10 @@ A compact DIY weather station built with an Arduino, a DHT11 temperature/humidit
 The project displays real-time environmental data and allows switching between temperature and humidity modes using a push button.
 
 ---
+<div style="display: flex; gap: 10px;">
+  <img src="photo_2026-05-21_13-50-52.jpg" width="500" alt="Device">
+  <img src="photo_2026-05-21_13-50-55.jpg" width="500" alt="Device">
+</div>
 
 ## Features
 
@@ -62,6 +66,8 @@ A push button allows switching between:
 ---
 
 ## Wiring
+
+<img src="9d20bb48-76ba-4ee4-9f63-8162450f7ad7.png" width="500"  alt="Wiring">
 
 ### DHT11 Sensor
 
@@ -146,11 +152,6 @@ Select:
 - Correct COM port
 
 Then upload the code.
-
-## Images
-<img src="photo_2026-05-21_13-50-52.jpg" width="500" alt="Device">
-<img src="photo_2026-05-21_13-50-55.jpg" width="500" alt="Device">
-<img src="9d20bb48-76ba-4ee4-9f63-8162450f7ad7.png" width="500"  alt="Wiring">
 
 | Mode | Example |
 |---|---|
