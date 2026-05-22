@@ -131,7 +131,7 @@ Press the button to switch between modes.
 
 ## Installation
 1. Clone the repository
-git clone https://github.com/yourusername/weather-station.git
+git clone[https://github.com/GoncharovaAD/meteostation-arduino](https://github.com/GoncharovaAD/meteostation-arduino)
 2. Open the project
 
 Open the .ino file in the Arduino IDE.
